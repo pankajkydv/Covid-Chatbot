@@ -54,7 +54,7 @@ Then after this in the command prompt and use this command
 ```
 $ streamlit run main.py
 ```
-## Website
+<!-- ## Website
 https://share.streamlit.io/meetdesai2509/corona-chatbot
 
  ## Contributors
@@ -99,4 +99,4 @@ Meet Desai
   </table>
 </tr>
   </table>
-
+ -->
