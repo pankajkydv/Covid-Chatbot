@@ -8,9 +8,9 @@
   
   <h3>Team Neophyte Members🤝</h3>
   
-  <a href="https://github.com/asityamukherjee42"> **Aditya Mukherjee** </a>
+<!--   <a href="https://github.com/asityamukherjee42"> **Pankaj yadav** </a> -->
   
-  <a href="https://github.com/MEETDESAI2509"> **Meet Desai** </a>
+<!--   <a href="https://github.com/MEETDESAI2509"> **Meet Desai** </a> -->
 </div>
 
 ## Table of contents
